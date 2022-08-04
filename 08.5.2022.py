@@ -1,0 +1,11 @@
+a={"Model":"Ruby","brand":"Crystal","Year":1956}
+##print a.Keys()
+##print a.clear()
+##print get("brand")
+##print a.values ()
+x=a.get("brand")
+print(x)
+x=a.values()
+print(x)
+x=a.update("Name""jo")
+print(x)
